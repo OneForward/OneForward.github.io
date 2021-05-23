@@ -1,0 +1,17 @@
+title: Jing Huang
+position: M.S. Student
+affiliation: Shanghai Jiao Tong University
+email: ziruochenxia (at) sjtu.edu.cn
+keywords: minimal academic
+google_scholar: https://scholar.google.com/citations?user=aq0KodkAAAAJ
+github_link: https://github.com/OneForward
+# linkedin: https://www.linkedin.com/
+avatar: ./assets/img/cat.jpg
+# google_analytics: UA-111540567-4
+favicon: ./assets/img/cat.jpg
+favicon_dark: ./assets/img/cat.jpg
+description: Graduate Student in SJTU.
+# canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
+
+# theme: jekyll-theme-minimal
