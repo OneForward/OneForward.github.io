@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I'm a Master student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Automation, SJTU in 2019. My research interests include graph learning and graph-related fileds, like skeleton-based human pose estimation, semi- or un-supervised learning, recommendation system and relation extraction. I'm currently an intern in the Department of Trust and Security  in ByteDance, researching on discovering abnormal accounts with graph-based strategies.
+I'm a Master student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Automation, SJTU in 2019. My research interests include graph learning and graph-related fileds, like skeleton-based human pose estimation, semi- or un-supervised learning, recommendation system and relation extraction. 
+**I'm currently seeking for PhD position.** 
+<!-- I'm currently an intern in the Department of Trust and Security  in ByteDance, researching on discovering abnormal accounts with graph-based strategies. -->
 
 ## Research Interests
 
@@ -49,3 +51,10 @@ I'm a Master student at the Institute of Image Processing and Pattern Recognitio
 - Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
 - Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
 - Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263). -->
+
+
+## HONORS & AWARDS 
+
+* **China National Scholarship (top 2%), 2021**
+* Scholarships for Postgraduate Students (top 30%), 2019, 2020
+* Huawei Special Scholarship (top 10%), 2017
