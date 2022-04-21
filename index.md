@@ -5,7 +5,9 @@ layout: homepage
 ## About Me
 
 I'm a Master student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Automation, SJTU in 2019. My research interests include graph learning and graph-related fileds, like skeleton-based human pose estimation, semi- or un-supervised learning, recommendation system and relation extraction. 
-**I'm currently seeking for PhD position.** 
+
+I'm currently a full-time R&D for WeChat Group, Tencent.
+<!-- **I'm currently seeking for PhD position.**  -->
 <!-- I'm currently an intern in the Department of Trust and Security  in ByteDance, researching on discovering abnormal accounts with graph-based strategies. -->
 
 ## Research Interests
